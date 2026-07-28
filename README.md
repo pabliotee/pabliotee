@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="pikachu-yay.gif" > Pablo Aimar
+  <img src="pikachu-yay.gif" height="200" valign="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=1&pause=100000&color=FFFF00&background=00000000&center=false&vCenter=true&width=320&height=60&lines=Pablo+Aimar" valign="middle"/>
 </h1>
 
 <p align="center">
@@ -25,7 +26,7 @@ Gosto de aprender na prática — pegar um problema, quebrar em partes pequenas 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-FFFF00?style=for-the-badge&logo=postgresql&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-FFFF00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI5IiByeT0iMyIvPjxwYXRoIGQ9Ik0yMSAxMmMwIDEuNjYtNCAzLTkgM3MtOS0xLjM0LTktMyIvPjxwYXRoIGQ9Ik0zIDV2MTRjMCAxLjY2IDQgMyA5IDNzOS0xLjM0IDktM1Y1Ii8+PC9zdmc+" /> 
   <img src="https://img.shields.io/badge/FastAPI-FFFF00?style=for-the-badge&logo=fastapi&logoColor=black" />
 </p>
 <p align="center">
@@ -39,16 +40,15 @@ Gosto de aprender na prática — pegar um problema, quebrar em partes pequenas 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=FFFF00&background=00000000&center=false&vCenter=true&width=420&height=40&lines=Em+foco+no+Momento" alt="Em foco no momento"/>
 
-🔍 Estudando arquitetura de sistemas **SaaS**
-⚙️ Praticando **automação de processos**
-🤖 Construindo meus primeiros **agentes de IA**
-📊 Aplicando Python e SQL em rotinas de dados
-
+<img src="https://api.iconify.design/lucide:search.svg?color=%23FFFF00" width="16" valign="middle"/> Estudando arquitetura de sistemas **SaaS**  
+<img src="https://api.iconify.design/lucide:settings.svg?color=%23FFFF00" width="16" valign="middle"/> Praticando **automação de processos**  
+<img src="https://api.iconify.design/lucide:bot.svg?color=%23FFFF00" width="16" valign="middle"/> Construindo meus primeiros **agentes de IA**  
+<img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23FFFF00" width="16" valign="middle"/> Aplicando **Python e SQL** em rotinas de dados
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=FFFF00&background=00000000&center=false&vCenter=true&width=320&height=40&lines=Fora+do+teclado" alt="Fora do teclado"/>
 
-🎮 Quando não estou estudando ou codando, provavelmente estou jogando.
+<img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%23FFFF00" width="16" valign="middle"/> Quando não estou estudando ou codando, provavelmente estou jogando.
 
 <br/>
 
