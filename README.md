@@ -24,16 +24,16 @@ Gosto de aprender na prática — pegar um problema, quebrar em partes pequenas 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=FFFF00&background=00000000&center=false&vCenter=true&width=200&height=40&lines=Stack" alt="Stack"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-FFFF00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI5IiByeT0iMyIvPjxwYXRoIGQ9Ik0yMSAxMmMwIDEuNjYtNCAzLTkgM3MtOS0xLjM0LTktMyIvPjxwYXRoIGQ9Ik0zIDV2MTRjMCAxLjY2IDQgMyA5IDNzOS0xLjM0IDktM1Y1Ii8+PC9zdmc+" /> 
-  <img src="https://img.shields.io/badge/FastAPI-FFFF00?style=for-the-badge&logo=fastapi&logoColor=black" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFFF00?style=flat&logo=python&logoColor=black" height="300"/>
+  <img src="https://img.shields.io/badge/SQL-FFFF00?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI5IiByeT0iMyIvPjxwYXRoIGQ9Ik0yMSAxMmMwIDEuNjYtNCAzLTkgM3MtOS0xLjM0LTktMyIvPjxwYXRoIGQ9Ik0zIDV2MTRjMCAxLjY2IDQgMyA5IDNzOS0xLjM0IDktM1Y1Ii8+PC9zdmc+" height="50"/>
+  <img src="https://img.shields.io/badge/FastAPI-FFFF00?style=flat&logo=fastapi&logoColor=black" height="50"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-FFFF00?style=for-the-badge&logo=postgresql&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-FFFF00?style=for-the-badge&logo=docker&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-FFFF00?style=for-the-badge&logo=git&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-FFFF00?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-FFFF00?style=flat&logo=postgresql&logoColor=black" height="50"/>
+  <img src="https://img.shields.io/badge/Docker-FFFF00?style=flat&logo=docker&logoColor=black" height="50"/>
+  <img src="https://img.shields.io/badge/Git-FFFF00?style=flat&logo=git&logoColor=black" height="50"/>
+  <img src="https://img.shields.io/badge/VS_Code-FFFF00?style=flat&logo=visualstudiocode&logoColor=black" height="50"/>
 </p>
 
 <br/>
