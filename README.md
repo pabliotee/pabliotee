@@ -3,12 +3,17 @@
 </h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Estagi%C3%A1rio%20em%20Dados%20%26%20IA-FFFF00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Engenheiro%20de%20Dados-FFFF00?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=FAFA37&background=00000000&center=true&vCenter=true&width=560&lines=Estudando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Explorando+SaaS%2C+automa%C3%A7%C3%A3o+e+agentes+de+IA;Transformando+dados+em+decis%C3%A3o" alt="typing"/>
 </p>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=FFFF00&background=00000000&center=false&vCenter=true&width=200&height=40&lines=sobre" alt="Sobre"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=FFFF00&background=00000000&center=false&vCenter=true&width=200&height=40&lines=Sobre" alt="Sobre"/>
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente atuando como **estagiário em Dados e IA**. Meu foco agora está em entender melhor como aplicações **SaaS** são construídas, como a **automação** pode reduzir trabalho repetitivo, e como **agentes de IA** podem ser projetados para resolver problemas reais.
 
@@ -16,23 +21,23 @@ Gosto de aprender na prática — pegar um problema, quebrar em partes pequenas 
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=FFFF00&background=00000000&center=false&vCenter=true&width=200&height=40&lines=stack" alt="Stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=FFFF00&background=00000000&center=false&vCenter=true&width=200&height=40&lines=Stack" alt="Stack"/>
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-FFFF00?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-FFFF00?style=for-the-badge&logo=fastapi&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-FFFF00?style=for-the-badge&logo=postgresql&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-FFFF00?style=for-the-badge&logo=fastapi&logoColor=black" />
 </p>
-<p align="center"> 
-  <img src="https://img.shields.io/badge/PostgreSQL-FFFF00?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-FFFF00?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-FFFF00?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-FFFF00?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-FFFF00?style=for-the-badge&logo=postgresql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-FFFF00?style=for-the-badge&logo=docker&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-FFFF00?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-FFFF00?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
 </p>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=FFFF00&background=00000000&center=false&vCenter=true&width=420&height=40&lines=em+foco+no+momento" alt="Em foco no momento"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=FFFF00&background=00000000&center=false&vCenter=true&width=420&height=40&lines=Em+foco+no+Momento" alt="Em foco no momento"/>
 
 🔍 Estudando arquitetura de sistemas **SaaS**
 ⚙️ Praticando **automação de processos**
@@ -41,13 +46,13 @@ Gosto de aprender na prática — pegar um problema, quebrar em partes pequenas 
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=FFFF00&background=00000000&center=false&vCenter=true&width=320&height=40&lines=fora+do+teclado" alt="Fora do teclado"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=FFFF00&background=00000000&center=false&vCenter=true&width=320&height=40&lines=Fora+do+teclado" alt="Fora do teclado"/>
 
 🎮 Quando não estou estudando ou codando, provavelmente estou jogando.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=FFFF00&background=00000000&center=false&vCenter=true&width=220&height=40&lines=contato" alt="Contato"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&color=FFFF00&background=00000000&center=false&vCenter=true&width=220&height=40&lines=Contato" alt="Contato"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pabloaimaar/">
